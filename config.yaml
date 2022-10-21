@@ -1,0 +1,10 @@
+#ide的url
+ideUrl: "http://101.200.205.231:8001"
+
+#数据库的信息
+database:
+  host: "101.200.205.231"
+  port: "5432"
+  user: "postgres"
+  password: "1xkrxt12pevzcol0"
+
